@@ -10,7 +10,7 @@ There will be information about my progress in studying front end technologies
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C&#35&logoColor=008000)
+![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C&#035;&logoColor=008000)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=FFFF00)
 
 
