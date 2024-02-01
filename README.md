@@ -1,9 +1,7 @@
 ![Header](https://github.com/Danifka3/Danifka3/blob/main/assets/logo.jpg)
 
 ### About me:
-I'm a novice frontend developer and it's very cool that you're on my GitHub page!
-<br>
-There will be information about my progress in studying front end technologies
+I'm a frontend developer and it's very cool that you're on my GitHub page!
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
